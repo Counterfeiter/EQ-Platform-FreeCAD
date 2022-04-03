@@ -1,4 +1,4 @@
-# EQ-Platform for a Dobsonian Teleskop (Newton Teleskop + Rocker Box) or a Camera Tripod
+# EQ-Platform for a Dobsonian Telescope (Newton Telescope + Rocker Box) or a Camera Tripod
 FreeCAD parametric drawings for an EQ-Platform. 
 Enter your latitude and center of gravity of your teleskop in the spreadsheet and if you are in about 51° you get all the 3D parts to print and build this Platform.
 
@@ -8,14 +8,13 @@ Enter your latitude and center of gravity of your teleskop in the spreadsheet an
 * U-Profile roller bearing: https://www.kugellager-express.de/profillaufrolle-lfr50-5-4-2rs-5x16x8-mm
 
 ![Scatch](Images/Platform_model.jpeg)
-![Ready to go](Images/platform.jpeg)
-![Ready to go](Images/platform2.jpeg)
+![Ready to go](Images/Platform.jpeg)
+![Ready to go](Images/Platform2.jpeg)
 
 # License MIT
 
-#FreeCAD Version
+# FreeCAD Version
 Because FreeCAD is free it's not that compatible between versions. If you have any problems with the saved models please try this version (Ubuntu 20):
 
 FreeCAD-asm3-Daily-Conda-Py3-Qt5-20220111-glibc2.12-x86_64.AppImage
-
 or upper...
